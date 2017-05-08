@@ -1,1 +1,1 @@
-![Frodo](/images/frodo.jpg) <!-- .element: width="800px" -->
+![Frodo](images/frodo.jpg) <!-- .element: width="800px" -->

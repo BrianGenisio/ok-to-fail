@@ -1,1 +1,1 @@
-![Mario](/images/super-mario.png) <!-- .element: width="800px" -->
+![Mario](images/super-mario.png) <!-- .element: width="800px" -->
