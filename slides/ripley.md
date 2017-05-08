@@ -1,1 +1,1 @@
-![Ripley](/images/ripley.png) <!-- .element: width="500px" -->
+![Ripley](images/ripley.png) <!-- .element: width="500px" -->
